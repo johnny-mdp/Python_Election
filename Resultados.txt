@@ -1,0 +1,20 @@
+Año	Unemp	Prev_Unemp	Pover	Prev_Pover	GDP_gro	Prev_GDP_gro	Inflat	Prev_Infl	cand_pred_year 
+2019	0.098	0.092	0.36	0.33	-0.021	-0.024	0.53	0.47	4
+
+Año	ideology	power	image	polling 	Result 		Actual
+2019	0.3	0	0.5	0.53	0.472637		0.4824
+2019	0.6	1	0.4	0.35	0.372981		0.4028
+2019	0.5	0	0.4	0.07	0.080172		0.0614
+2019	0.2	0	0.2	0.02	0.042978		0.0216
+
+
+Año	Unemp	Prev_Unemp	Pover	Prev_Pover	GDP_gro	Prev_GDP_gro	Inflat	Prev_Infl	cand_pred_year 
+2021	0.2	0.13	0.55	0.41	0.05	-0.12	0.29	0.55	4
+
+Año	ideology	power	image	polling 	Result 		Actual
+2021	0.3	1	0.3	0.33	0.439882		0.4275
+2021	0.6	0	0.5	0.33	0.393531		0.3456
+2021	0.8	0	0.35	0.11	0.0906774	0.055
+2021	0.1	0	0.2	0.03	0.0759089	0.0541
+
+
